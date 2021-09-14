@@ -1,0 +1,268 @@
+
+<!DOCTYPE html PUBLIC
+          "-//W3C//DTD XHTML 1.0 Strict//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Talks (zope) - PyCon Australia 2010 Sydney - June 26/27 - A Conference for the Australian Python Community</title>
+    <link rel="stylesheet" type="text/css" href="../../../media/2010/pyconau2010/css/base.css" />
+    <meta name="robots" content="index,follow" />
+    
+
+
+    <link rel="icon" type="image/png" href="../../../media/2010/favicon.png">
+    
+
+
+    
+    
+<style type="text/css">
+#lfcolumn #filter LI { font-size: 10px; margin: 1px; text-transform: none;}
+.proposal_list_summary H2 { margin-bottom: 0px; !important}
+#selected_filter { font-weight: bold; }
+#talklink { font-weight: bold; }
+.proposal_list_summary a:link    {color: #0000FF; text-decoration: none;}
+.proposal_list_summary a:visited {color: #0000FF; text-decoration: none;}
+.proposal_list_summary a:active  {color: #0000FF; text-decoration: none;}
+#filter-info { display: none };
+</style>
+<style type="text/css" media="print">
+#lfcolumn { display: none; }
+#toolbar { display: none; }
+#filter-info { display: block; font-weight: bold;}
+</style>
+
+    
+  </head>
+  <body>
+
+    <div id="frame">
+    <table id="layout" cellpadding="0" cellspacing="0" border="0">
+      <tr><td class="zeroed" colspan="2">
+          <div id="search">
+            <div style="float: right; vertical-align: top; height: 20px;">&nbsp;</div>
+            
+          <form id="searchbox_013215799341597957085:m0qv1pf2oge" action="http://www.google.com/cse">
+            <input type="hidden" name="cx" value="013215799341597957085:m0qv1pf2oge" />
+            <input type="hidden" name="cof" value="FORID:0" />
+            <input name="q" tabindex="999" class="textfield" type="text" onclick="this.value=''" value="search" />
+            
+          </form>
+            
+          </div>
+
+          <div id="header-container">
+          <div id="header">
+            <a href="../../index.html">
+            <img src="../../../media/2010/pyconau2010/img/masthead6.png"
+                 alt="PyCon Australia 2010 Sydney" />
+            </a>
+          </div>
+
+          <div class="defloat">&nbsp;</div>
+
+          <div id="dashboard">
+            <div id="metanav">
+              
+              <ul>
+                <li class="first"><a href="../../helping/bugs/index.html">Report Website Bug</a></li>
+                
+                <li><a href="../../login/index.html?next=%252F2010%252Fconference%252Fproposals%252Faccepted%252F" rel='nofollow'>Log in</a></li>
+                <li class="last"><a href="../../profile/new/index.html?next=%252F2010%252Fconference%252Fproposals%252Faccepted%252F">Create Account</a></li>
+                
+              </ul>
+              
+            </div>
+
+            <div id="breadcrumbs">
+              
+&nbsp;
+              
+              
+            </div>
+          </div>
+          </div>
+
+          <div id="nav">
+          
+          
+          
+          <div id="nav-one">
+            <ul>
+              
+              <li><a class="" href="../../index.html" title="Home">Home</a></li>
+              
+              <li><a class="" href="../index.html" title="Program">Program</a></li>
+              
+              <li><a class="" href="../../registration/index.html" title="Registration">Registration</a></li>
+              
+              <li><a class=" last" href="../../press/index.html" title="Press">Press</a></li>
+              
+            </ul>
+            <div class="defloat">&nbsp;</div>
+          </div>
+          
+          
+          <div class="ghost">&nbsp;</div>
+          </div>
+
+      </td></tr>
+
+      <tr><td class="zeroed">
+          <div id="content">
+            
+
+<div id="toolbar">
+
+<form id="changelist-search" action="index.html?filter=zope" method="get">
+<input type="text" size="40" name="search" id="searchbar"
+        value="--Search Talks--" onFocus="value=''"/>
+<input type="submit" value="search" />
+
+</form>
+</div>
+<div id="filter-info">Category: zope</div>
+
+
+<div id='lfcolumn' style="float: right; width: auto;">
+<b>Categories</b>
+<ul id='filter'><li><a class='urllink' href='../proposals/accepted/index.html' rel='nofollow'> all (26)</a></li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=advocacy' rel='nofollow'>advocacy (3)</a>
+    </li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=application_development' rel='nofollow'>application development (8)</a>
+    </li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=architecture' rel='nofollow'>architecture (2)</a>
+    </li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=case_study' rel='nofollow'>case study (3)</a>
+    </li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=databases' rel='nofollow'>databases (3)</a>
+    </li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=django' rel='nofollow'>django (5)</a>
+    </li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=gui' rel='nofollow'>gui (2)</a>
+    </li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=language' rel='nofollow'>language (3)</a>
+    </li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=multimedia' rel='nofollow'>multimedia (2)</a>
+    </li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=optimisation' rel='nofollow'>optimisation (3)</a>
+    </li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=packaging' rel='nofollow'>packaging (2)</a>
+    </li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=performance' rel='nofollow'>performance (2)</a>
+    </li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=science' rel='nofollow'>science (2)</a>
+    </li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=web' rel='nofollow'>web (9)</a>
+    </li>
+    
+    
+    <li><a class='urllink' href='../proposals/accepted/index.html?filter=wsgi' rel='nofollow'>wsgi (2)</a>
+    </li>
+    
+    
+    <li><span id='selected_filter'>zope</span>
+    
+</ul>
+</div>
+
+
+
+<div class="proposal_list_summary">
+    <br/>
+    
+    <h2><span style="display: inline-table;" id="proposal_link_32"><span style="display: table-cell; padding-left: 5px;">
+        Plone for Python Developers
+         
+    </span></span>
+</h2>
+    
+    <span style="padding-left: 3em; font-size: smaller; font-weight: bold;">Dylan Jay (<a href="http://www.pretaweb.com">PretaWeb</a>) <sup><a href="../../profile/0bf1/index.html" title="bio">bio</a></sup></span>
+    <br/>
+    
+    <span style="padding-left: 3em; font-size: smaller; font-weight: bold;">45min &loz;&loz; Intermediate</span><br/>
+    
+    <span style="padding-left: 3em; font-size: smaller; font-weight: bold;">Saturday 01:25pm, Tuscan Room</span><br/>
+    
+    <span style="padding-left: 3em; font-size: smaller; font-weight: bold;">
+        <a href='../proposals/accepted/index.html?filter=cms'>cms</a>, <a href='../proposals/accepted/index.html?filter=plone'>plone</a>, <a href='../proposals/accepted/index.html?filter=web'>web</a>, <a href='../proposals/accepted/index.html?filter=zope'>zope</a>
+    </span>
+    <div style="padding-left: 3em;">Plone is one of the top four open source CMSes in the world and is pure python. Plone is in demand for security, simple UI and extreme flexibility. This talk will concentrate on helping web programers with several common customisations of Plone, including  <br/>content type creation, themeing and template customizations and how the re-architecture using ZTK makes this easy.<br/>&nbsp;<br/></div>
+</div>
+
+
+
+
+          </div>
+
+      </td><td class="zeroed right">
+
+          
+
+      </td></tr>
+
+      <tr><td class="zeroed" colspan="2">
+          <div id="footer">
+            
+            <div class="badge django">
+              <a href="http://www.djangoproject.com">
+              made with <img src="../../../media/2010/pyconau2010/img/django-footer.png" alt="django" />.
+              </a>
+            </div>
+            <div class="badge mod-wsgi">
+              <a href="http://www.modwsgi.org">
+              powered by <strong>mod_wsgi</strong>.
+              </a>
+            </div>
+            <div class="badge tummy">
+              <a href="http://www.tummy.com">
+              hosted by <strong>tummy.com</strong>.
+              </a>
+            </div>
+            <div class="general">
+
+              Content Generated: Tue, 18 Sep 2012 14:43:24 +1000
+              <!-- <div id="iltag">Made in collaboration with <a href="http://www.imagescape.com">Imaginary Landscape</a>.</div> -->
+
+            </div>
+            
+          </div>
+          <div id="spacer">&nbsp;</div>
+      </td></tr>
+    </table>
+    </div>
+
+  </body>
+</html>
