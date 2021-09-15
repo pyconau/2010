@@ -9,12 +9,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <title>Talks (django) - PyCon Australia 2010 Sydney - June 26/27 - A Conference for the Australian Python Community</title>
-    <link rel="stylesheet" type="text/css" href="../../../media/2010/pyconau2010/css/base.css" />
+    <link rel="stylesheet" type="text/css" href="../../css/base.css" />
     <meta name="robots" content="index,follow" />
     
 
 
-    <link rel="icon" type="image/png" href="../../../media/2010/favicon.png">
+    <link rel="icon" type="image/png" href="../../favicon.png">
     
 
 
@@ -58,7 +58,7 @@
           <div id="header-container">
           <div id="header">
             <a href="../../index.html">
-            <img src="../../../media/2010/pyconau2010/img/masthead6.png"
+            <img src="/img/masthead6.png"
                  alt="PyCon Australia 2010 Sydney" />
             </a>
           </div>
@@ -215,7 +215,10 @@
     <span style="padding-left: 3em; font-size: smaller; font-weight: bold;">
         <a href='../proposals/accepted/index.html?filter=advocacy'>advocacy</a>, <a href='../proposals/accepted/index.html?filter=architecture'>architecture</a>, <a href='../proposals/accepted/index.html?filter=community'>community</a>, <a href='../proposals/accepted/index.html?filter=django'>django</a>, <a href='../proposals/accepted/index.html?filter=web'>web</a>
     </span>
-    <div style="padding-left: 3em;">As part of our web development work for Galleries, Libraries, Archives and Museums (the so-called GLAM sector), we have open-sourced the common tools and design patterns that we have developed as a web framework called GLAMkit (<a href="http://glamkit.org" rel="nofollow">http://glamkit.org</a>).<br/>&nbsp;<br/>GLAMkit is based on Django, and is inspired by its design philosophy of several apps which implement specific features. However, by looking at the successes and challenges faced by other CMSes and collections of apps such as Pinax, we have taken the philosophy a stage futher.<br/>&nbsp;<br/>Rather than being a collection of Django apps, we have constructed GLAMkit as a collection of optional and reusable Django &#39;toolkits&#39; for implementing common features. We leave the implementation details - the things that Django already does brilliantly - to the application developers themselves.<br/>&nbsp;<br/>In this talk, we will present the history of GLAMkit&#39;s development, with particular focus on how our approach to reusability came about, and some examples of that approach.</div>
+    <div style="padding-left: 3em;">As part of our web development work for Galleries, Libraries, Archives and Museums (the so-called GLAM sector), we have open-sourced the common tools and design patterns that we have developed as a web framework called GLAMkit (<a href="http://glamkit.org" rel="nofollow">http://glamkit.org</a>).
+<br/>&nbsp;<br/>GLAMkit is based on Django, and is inspired by its design philosophy of several apps which implement specific features. However, by looking at the successes and challenges faced by other CMSes and collections of apps such as Pinax, we have taken the philosophy a stage futher.
+<br/>&nbsp;<br/>Rather than being a collection of Django apps, we have constructed GLAMkit as a collection of optional and reusable Django &#39;toolkits&#39; for implementing common features. We leave the implementation details - the things that Django already does brilliantly - to the application developers themselves.
+<br/>&nbsp;<br/>In this talk, we will present the history of GLAMkit&#39;s development, with particular focus on how our approach to reusability came about, and some examples of that approach.</div>
 </div>
 
 <div class="proposal_list_summary">
@@ -281,7 +284,8 @@
     <span style="padding-left: 3em; font-size: smaller; font-weight: bold;">
         <a href='../proposals/accepted/index.html?filter=django'>django</a>
     </span>
-    <div style="padding-left: 3em;">The last 18 months or so in Australia have seen an increased number of government and public sector organisations releasing datasets to the public under reasonable reuse terms (often Creative Commons license). This talk will take a couple of those local real-world datasets and create a minimal website for remixing them, using Django as the underlying framework. The goals are to provide a short walk through the process of importing and extracting such data in practice, show how to incorporate Django&#39;s GIS features into an application, as well as highlighting that real world is messy and so is the data it produces. Working with datasets for journalism or research purposes, or simply fun, requires a certain attention to detail.<br/>&nbsp;<br/>Basic knowledge of Django is assumed, although the GIS components will be introduced carefully as they are less familiar to many developers.</div>
+    <div style="padding-left: 3em;">The last 18 months or so in Australia have seen an increased number of government and public sector organisations releasing datasets to the public under reasonable reuse terms (often Creative Commons license). This talk will take a couple of those local real-world datasets and create a minimal website for remixing them, using Django as the underlying framework. The goals are to provide a short walk through the process of importing and extracting such data in practice, show how to incorporate Django&#39;s GIS features into an application, as well as highlighting that real world is messy and so is the data it produces. Working with datasets for journalism or research purposes, or simply fun, requires a certain attention to detail.
+<br/>&nbsp;<br/>Basic knowledge of Django is assumed, although the GIS components will be introduced carefully as they are less familiar to many developers.</div>
 </div>
 
 <div class="proposal_list_summary">
@@ -303,7 +307,9 @@
     <span style="padding-left: 3em; font-size: smaller; font-weight: bold;">
         <a href='../proposals/accepted/index.html?filter=deployment'>deployment</a>, <a href='../proposals/accepted/index.html?filter=django'>django</a>, <a href='../proposals/accepted/index.html?filter=web'>web</a>, <a href='../proposals/accepted/index.html?filter=wsgi'>wsgi</a>
     </span>
-    <div style="padding-left: 3em;">A overview of new tools for deploying python based applications to servers including cloud inferstructure such as Amazon Ec2<br/>The talk will cover Ian Bicking&#39;s Silver Lining, zc.buildout, Fabric and hostout. This talk will focus on how to get your first web app hosted<br/>easily.</div>
+    <div style="padding-left: 3em;">A overview of new tools for deploying python based applications to servers including cloud inferstructure such as Amazon Ec2
+<br/>The talk will cover Ian Bicking&#39;s Silver Lining, zc.buildout, Fabric and hostout. This talk will focus on how to get your first web app hosted
+<br/>easily.</div>
 </div>
 
 
@@ -322,7 +328,7 @@
             
             <div class="badge django">
               <a href="http://www.djangoproject.com">
-              made with <img src="../../../media/2010/pyconau2010/img/django-footer.png" alt="django" />.
+              made with <img src="../../pyconau2010/img/django-footer.png" alt="django" />.
               </a>
             </div>
             <div class="badge mod-wsgi">

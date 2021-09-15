@@ -9,12 +9,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <title>Talks (apis) - PyCon Australia 2010 Sydney - June 26/27 - A Conference for the Australian Python Community</title>
-    <link rel="stylesheet" type="text/css" href="../../../media/2010/pyconau2010/css/base.css" />
+    <link rel="stylesheet" type="text/css" href="../../css/base.css" />
     <meta name="robots" content="index,follow" />
     
 
 
-    <link rel="icon" type="image/png" href="../../../media/2010/favicon.png">
+    <link rel="icon" type="image/png" href="../../favicon.png">
     
 
 
@@ -58,7 +58,7 @@
           <div id="header-container">
           <div id="header">
             <a href="../../index.html">
-            <img src="../../../media/2010/pyconau2010/img/masthead6.png"
+            <img src="/img/masthead6.png"
                  alt="PyCon Australia 2010 Sydney" />
             </a>
           </div>
@@ -219,7 +219,8 @@
     <span style="padding-left: 3em; font-size: smaller; font-weight: bold;">
         <a href='../proposals/accepted/index.html?filter=apis'>apis</a>, <a href='../proposals/accepted/index.html?filter=web'>web</a>
     </span>
-    <div style="padding-left: 3em;">The Google Wave robots protocol involves JSON-RPC messages that are sent between the Wave server and the robot, communicating events to process and operations to perform. The Python Robots API abstracts on top of that JSON-RPC service, allowing developers to interact with waves using event callbacks, python classes, and chained functions. In this talk, we&#39;ll explain the JSON-RPC protocol, talk about how we designed the API to sit on top of that protocol, and show how developers can use the API.<br/>&nbsp;<br/>&nbsp;</div>
+    <div style="padding-left: 3em;">The Google Wave robots protocol involves JSON-RPC messages that are sent between the Wave server and the robot, communicating events to process and operations to perform. The Python Robots API abstracts on top of that JSON-RPC service, allowing developers to interact with waves using event callbacks, python classes, and chained functions. In this talk, we&#39;ll explain the JSON-RPC protocol, talk about how we designed the API to sit on top of that protocol, and show how developers can use the API.
+<br/>&nbsp;<br/>&nbsp;</div>
 </div>
 
 
@@ -237,8 +238,8 @@
           <div id="footer">
             
             <div class="badge django">
-              <a href="http://www.djangoproject.com">
-              made with <img src="../../../media/2010/pyconau2010/img/django-footer.png" alt="django" />.
+              <a href="http://www.django
+              made with <img src="../../pyconau2010/img/django-footer.png" alt="django" />.
               </a>
             </div>
             <div class="badge mod-wsgi">

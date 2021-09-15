@@ -9,12 +9,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <title>Talks (gui) - PyCon Australia 2010 Sydney - June 26/27 - A Conference for the Australian Python Community</title>
-    <link rel="stylesheet" type="text/css" href="../../../media/2010/pyconau2010/css/base.css" />
+    <link rel="stylesheet" type="text/css" href="../../css/base.css" />
     <meta name="robots" content="index,follow" />
     
 
 
-    <link rel="icon" type="image/png" href="../../../media/2010/favicon.png">
+    <link rel="icon" type="image/png" href="../../favicon.png">
     
 
 
@@ -58,7 +58,7 @@
           <div id="header-container">
           <div id="header">
             <a href="../../index.html">
-            <img src="../../../media/2010/pyconau2010/img/masthead6.png"
+            <img src="/img/masthead6.png"
                  alt="PyCon Australia 2010 Sydney" />
             </a>
           </div>
@@ -215,7 +215,9 @@
     <span style="padding-left: 3em; font-size: smaller; font-weight: bold;">
         <a href='../proposals/accepted/index.html?filter=application_development'>application development</a>, <a href='../proposals/accepted/index.html?filter=databases'>databases</a>, <a href='../proposals/accepted/index.html?filter=gui'>gui</a>, <a href='../proposals/accepted/index.html?filter=web'>web</a>
     </span>
-    <div style="padding-left: 3em;">Genropy is the python implementation of Genro, and is an application framework quite different from the standard (django, cherrypy, turbogears), for building powerful database applications deployed from the browser.  Many differences and advantages between this framework and traditional python application frameworks are explained. Genropy is a suitable for creating complex &#39;applications&#39; as opposed to &#39;sites&#39;. The differentiation is that an application is something an operator uses all day, has trained users, that have to &#39;squeeze&#39; all the power from it available.  Conversely, a &#39;site&#39; is basically public and not necessarily powerful as a user spends a relatively small amount of time on it. Genropy is the framework for creation applications.  It is used for attendee registration and sales in pycon italy, the larger national conference in Europe (Florence, Italy).  <br/>This session will demonstrate how to create a simple application (3 tables) and demonstrate the ease and power of using python for the model view and controller on the client.  It demonstrates how one api- being the genro Bag - is used to create the model, to map the sql to objects, to create the GUI and communicate all data. So all of it can be done in python instead of having to use many different technologies and languages.<br/>Jeff Edwards from Goodsoftware is strategic partner of Sofwell who is the author of Genropy.</div>
+    <div style="padding-left: 3em;">Genropy is the python implementation of Genro, and is an application framework quite different from the standard (django, cherrypy, turbogears), for building powerful database applications deployed from the browser.  Many differences and advantages between this framework and traditional python application frameworks are explained. Genropy is a suitable for creating complex &#39;applications&#39; as opposed to &#39;sites&#39;. The differentiation is that an application is something an operator uses all day, has trained users, that have to &#39;squeeze&#39; all the power from it available.  Conversely, a &#39;site&#39; is basically public and not necessarily powerful as a user spends a relatively small amount of time on it. Genropy is the framework for creation applications.  It is used for attendee registration and sales in pycon italy, the larger national conference in Europe (Florence, Italy).  
+<br/>This session will demonstrate how to create a simple application (3 tables) and demonstrate the ease and power of using python for the model view and controller on the client.  It demonstrates how one api- being the genro Bag - is used to create the model, to map the sql to objects, to create the GUI and communicate all data. So all of it can be done in python instead of having to use many different technologies and languages.
+<br/>Jeff Edwards from Goodsoftware is strategic partner of Sofwell who is the author of Genropy.</div>
 </div>
 
 <div class="proposal_list_summary">
@@ -237,7 +239,10 @@
     <span style="padding-left: 3em; font-size: smaller; font-weight: bold;">
         <a href='../proposals/accepted/index.html?filter=gui'>gui</a>, <a href='../proposals/accepted/index.html?filter=multimedia'>multimedia</a>
     </span>
-    <div style="padding-left: 3em;">Processing is an Open Source language designed to make interactive<br/>graphics and animation programming easier than traditional GUI<br/>toolkits. Processing is used to prototype systems and create<br/>interactive data visualisations.  </div>
+    <div style="padding-left: 3em;">Processing is an Open Source language designed to make interactive
+<br/>graphics and animation programming easier than traditional GUI
+<br/>toolkits. Processing is used to prototype systems and create
+<br/>interactive data visualisations.  </div>
 </div>
 
 
@@ -251,12 +256,12 @@
 
       </td></tr>
 
-      <tr><td class="zeroed" colspan="2">
+      <tr><td class="zeroed" colspan="2"
           <div id="footer">
             
             <div class="badge django">
               <a href="http://www.djangoproject.com">
-              made with <img src="../../../media/2010/pyconau2010/img/django-footer.png" alt="django" />.
+              made with <img src="../../pyconau2010/img/django-footer.png" alt="django" />.
               </a>
             </div>
             <div class="badge mod-wsgi">

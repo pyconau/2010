@@ -9,12 +9,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <title>Talks (optimisation) - PyCon Australia 2010 Sydney - June 26/27 - A Conference for the Australian Python Community</title>
-    <link rel="stylesheet" type="text/css" href="../../../../media/2010/pyconau2010/css/base.css" />
+    <link rel="stylesheet" type="text/css" href="../../../css/base.css" />
     <meta name="robots" content="index,follow" />
     
 
 
-    <link rel="icon" type="image/png" href="../../../../media/2010/favicon.png">
+    <link rel="icon" type="image/png" href="../../../favicon.png">
     
 
 
@@ -58,7 +58,7 @@
           <div id="header-container">
           <div id="header">
             <a href="../../../index.html">
-            <img src="../../../../media/2010/pyconau2010/img/masthead6.png"
+            <img src="../../../img/masthead6.png"
                  alt="PyCon Australia 2010 Sydney" />
             </a>
           </div>
@@ -215,7 +215,9 @@
     <span style="padding-left: 3em; font-size: smaller; font-weight: bold;">
         <a href='index.html?filter=application_development'>application development</a>, <a href='index.html?filter=language'>language</a>, <a href='index.html?filter=optimisation'>optimisation</a>, <a href='index.html?filter=profiling'>profiling</a>
     </span>
-    <div style="padding-left: 3em;">&quot;Bottlenecks occur in surprising places, so don&#39;t try to second guess and put in a speed hack until you have proven that&#39;s where the bottleneck is.&quot; (Rob Pike)<br/>&nbsp;<br/>Python is a great balance of productivity, expressiveness and performance, but there are times when it would nice to have a Python application run faster. This is particularly true for large scale data processing, numerical work, controlling real world devices, and animation.<br/>&nbsp;<br/>Using some real-world examples, this talk covers tools and techniques that allow you to systematically understand where the bottlenecks are in your code and then how to effectively optimise your code, without having to resort to writing modules in C/C++.</div>
+    <div style="padding-left: 3em;">&quot;Bottlenecks occur in surprising places, so don&#39;t try to second guess and put in a speed hack until you have proven that&#39;s where the bottleneck is.&quot; (Rob Pike)
+<br/>&nbsp;<br/>Python is a great balance of productivity, expressiveness and performance, but there are times when it would nice to have a Python application run faster. This is particularly true for large scale data processing, numerical work, controlling real world devices, and animation.
+<br/>&nbsp;<br/>Using some real-world examples, this talk covers tools and techniques that allow you to systematically understand where the bottlenecks are in your code and then how to effectively optimise your code, without having to resort to writing modules in C/C++.</div>
 </div>
 
 <div class="proposal_list_summary">
@@ -237,7 +239,8 @@
     <span style="padding-left: 3em; font-size: smaller; font-weight: bold;">
         <a href='index.html?filter=optimisation'>optimisation</a>, <a href='index.html?filter=performance'>performance</a>, <a href='index.html?filter=tips_and_tricks'>tips and tricks</a>
     </span>
-    <div style="padding-left: 3em;">Before you can make your program faster you need to understand why it slow.  Andrew will show you some tools and techniques for investigating and analysing your program&#39;s performance.<br/></div>
+    <div style="padding-left: 3em;">Before you can make your program faster you need to understand why it slow.  Andrew will show you some tools and techniques for investigating and analysing your program&#39;s performance.
+<br/></div>
 </div>
 
 <div class="proposal_list_summary">
@@ -259,7 +262,8 @@
     <span style="padding-left: 3em; font-size: smaller; font-weight: bold;">
         <a href='index.html?filter=memory'>memory</a>, <a href='index.html?filter=optimisation'>optimisation</a>, <a href='index.html?filter=performance'>performance</a>
     </span>
-    <div style="padding-left: 3em;">Ever wondered why your Python process has consumed 2 gigabytes of memory overnight?  Ever torn out your hair trying to find out why?  Andrew will show you some tools and techniques that can help you investigate.<br/></div>
+    <div style="padding-left: 3em;">Ever wondered why your Python process has consumed 2 gigabytes of memory overnight?  Ever torn out your hair trying to find out why?  Andrew will show you some tools and techniques that can help you investigate.
+<br/></div>
 </div>
 
 
@@ -278,7 +282,7 @@
             
             <div class="badge django">
               <a href="http://www.djangoproject.com">
-              made with <img src="../../../../media/2010/pyconau2010/img/django-footer.png" alt="django" />.
+              made with <img src="../../../pyconau2010/img/django-footer.png" alt="django" />.
               </a>
             </div>
             <div class="badge mod-wsgi">
