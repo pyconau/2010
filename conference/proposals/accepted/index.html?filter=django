@@ -14,7 +14,7 @@
     
 
 
-    <link rel="icon" type="image/png" href="../../../favicon.png">
+    <link rel="icon" type="image/png" href="/favicon.png">
     
 
 
@@ -328,7 +328,7 @@
             
             <div class="badge django">
               <a href="http://www.djangoproject.com">
-              made with <img src="../../../pyconau2010/img/django-footer.png" alt="django" />.
+              made with <img src="/img/django-footer.png" alt="django" />.
               </a>
             </div>
             <div class="badge mod-wsgi">
